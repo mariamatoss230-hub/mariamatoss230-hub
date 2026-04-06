@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://cdn.abacus.ai/images/bbe5a87c-c41d-494e-9b4d-2f13a3d2398d.png" alt="Banner" width="100%" />
+</div>
 # 👋 Olá, eu sou a Maria Clara
 
 🎓 Cursando Ciência da Computação
